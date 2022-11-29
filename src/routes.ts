@@ -5,3 +5,4 @@ const routes = Router();
 //Create User
 
 routes.post("/client");
+export default routes;
